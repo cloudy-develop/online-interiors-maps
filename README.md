@@ -9,7 +9,7 @@ This repository is a FiveM resource adding map edits to the world of GTA V.
  
 ### Git Clone
 
-1. Run CMD in your "resources" folder and type "git clone "https://github.com/Cloud-Developments/oi_map_edits.git".
+1. Run CMD in your "resources" folder and type "git clone "https://github.com/cloudy-develop/online-interiors-maps.git".
 2. Ensure "oi_map_edits" in your "server.cfg".
 3. Enjoy your map edits.
 
